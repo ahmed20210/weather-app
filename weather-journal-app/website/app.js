@@ -1,6 +1,6 @@
 /* Global Variables */
 let btn = document.getElementById('generate')
-const apiKey = ',us&appid=a803916844cc94f869fd46dd80b49715&units=imperial'
+const apiKey = ',us&appid=&units=imperial'
 const primaryUrl = 'http://api.openweathermap.org/data/2.5/weather?zip='
 const currentData = document.getElementById('date')
 const temperature = document.getElementById('temp')
